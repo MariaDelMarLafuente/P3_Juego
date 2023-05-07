@@ -1,5 +1,5 @@
 # P3_Juego
-Aprendizaje de la programación distribuida mediante la creación de un juego llamado Balloons.
+Aprendizaje de la programación distribuida mediante la creación de un juego llamado BalloonsGame.
 
 En el repositorio podemos encontrar los siguientes archivos:
 
